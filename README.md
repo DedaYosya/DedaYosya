@@ -10,11 +10,7 @@ My name is Evgeny.
 
 | URL      |
 | ----------- |
-| [C-Sharp-Cheatsheet](https://github.com/lifeparticle/C-Sharp-Cheatsheet)                      |
-| [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)                    |
-| [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                              |
-| [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)  |
-| [GitHub-Cheatsheet](https://docs.github.com/ru/get-started/using-github/keyboard-shortcuts)   |                    |
+| [GitHub-Cheatsheet](https://docs.github.com/ru)   |                    |
     
 </div>
 
