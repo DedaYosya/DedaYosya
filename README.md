@@ -8,10 +8,12 @@ My name is Evgeny.
 
 <div align="left">
 
-| URL      |
+|      URL    |
 | ----------- |
-| [GitHub-Cheatsheet](https://docs.github.com/ru)   |                    |
-    
+| [Документация по GitHub](https://docs.github.com/ru)                  | 
+| [Языки и технологии программирования](https://metanit.com/)           | 
+| [Основы GNU/Linux и подготовка к RHCSA](https://docs.github.com/ru)   | 
+
 </div>
 
 
