@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My name is Evgeny.
-- 🌱  I’m currently learning  at [GeekBrains](https://gb.ru/) as a [DevOps engineer from scratch](https://gb.ru/geek_university/developer/architecture/devops), Level: Middle
-- 📫  How to reach me: [Telegram](https://t.me/DedaEsya)
+- 🌱 I’m currently learning  at [GeekBrains](https://gb.ru/) as a [DevOps engineer from scratch](https://gb.ru/geek_university/developer/architecture/devops), Level: Middle
+- 📫 How to reach me: [Telegram](https://t.me/DedaEsya)
 
 
 <!--
