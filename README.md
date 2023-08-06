@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Evgeny.
+- 🌱 I’m currently learning  at [GeekBrains](https://gb.ru/) as a [DevOps engineer from scratch](https://gb.ru/geek_university/developer/architecture/devops), Level: Middle
+- 📫 How to reach me: [Telegram](https://t.me/DedaEsya)
+
+
 <!--
 **DedaYosya/DedaYosya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
