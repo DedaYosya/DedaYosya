@@ -27,17 +27,15 @@ My name is Evgeny.
 | [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)                        |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                              |
 | [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)  |
-| [GitHub-Cheatsheet](https://github.com/lifeparticle/GitHub-Cheatsheet)                        |
+| [GitHub-Cheatsheet](https://docs.github.com/ru/get-started/using-github/keyboard-shortcuts)   |                    |
     
 </div>
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedaYosya&theme=transparent&show_icons=true)
-
-
-
-[aurthohin]: https://github.com/DedaYosya/DedaYosya
+<br/><br/>
+<img align="left" src="https://komarev.com/ghpvc/?username=DedaYosya&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="DidaYosya" />
 
 
 
