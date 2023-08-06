@@ -4,11 +4,11 @@ My name is Evgeny.
 - 🌱 I’m currently learning  at [GeekBrains](https://gb.ru/) as a [DevOps engineer from scratch](https://gb.ru/geek_university/developer/architecture/devops), Level: Middle
 - 📫 How to reach me: [Telegram](https://t.me/DedaEsya)
 
-<h3 align="centr"> Cheatsheets </h3>
+<h3 align="centr"> Шпаргалки </h3>
 
 <div align="left">
 
-|      URL    |
+|    URL      |
 | ----------- |
 | [Документация по GitHub](https://docs.github.com/ru)                  | 
 | [Языки и технологии программирования](https://metanit.com/)           | 
