@@ -1,14 +1,14 @@
-### Hi there 👋
+### Привет 👋
 
-My name is Evgeny.
-- 🌱 I’m currently learning  at [GeekBrains](https://gb.ru/) as a [DevOps engineer from scratch](https://gb.ru/geek_university/developer/architecture/devops), Level: Middle
-- 📫 How to reach me: [Telegram](https://t.me/DedaEsya)
+Меня зовут Евгений.
+- 🌱 В настоящее время я учусь в [GeekBrains](https://gb.ru/) по программе [DevOps-инженер с нуля до Middle](https://gb.ru/geek_university/developer/architecture/devops)
+- 📫 Как со мной связаться: [Telegram](https://t.me/DedaEsya)
 
 <h3 align="centr"> Cheat sheets </h3>
 
 <div align="left">
 
-|    URL      |
+| Шпаргалка   |
 | ----------- |
 | [Документация по GitHub](https://docs.github.com/ru)                  | 
 | [Языки и технологии программирования](https://metanit.com)            | 
