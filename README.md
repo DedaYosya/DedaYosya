@@ -4,14 +4,14 @@ My name is Evgeny.
 - 🌱 I’m currently learning  at [GeekBrains](https://gb.ru/) as a [DevOps engineer from scratch](https://gb.ru/geek_university/developer/architecture/devops), Level: Middle
 - 📫 How to reach me: [Telegram](https://t.me/DedaEsya)
 
-<h3 align="centr"> Шпаргалки </h3>
+<h3 align="centr"> Cheat sheets </h3>
 
 <div align="left">
 
 |    URL      |
 | ----------- |
 | [Документация по GitHub](https://docs.github.com/ru)                  | 
-| [Языки и технологии программирования](https://metanit.com/)           | 
+| [Языки и технологии программирования](https://metanit.com)            | 
 | [Основы GNU/Linux и подготовка к RHCSA](https://docs.github.com/ru)   | 
 
 </div>
@@ -83,7 +83,8 @@ Here are some ideas to get you started:
 | [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)                        |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                              |
 | [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)  |
-| [GitHub-Cheatsheet](https://docs.github.com/ru/get-started/using-github/keyboard-shortcuts)   |                    |
-    
+| [GitHub-Cheatsheet](https://docs.github.com/ru/get-started/using-github/keyboard-shortcuts)   |  
+|
+<img align="left" src="https://komarev.com/ghpvc/?username=itbeard&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="itbeard" />
 </div>
 -->
