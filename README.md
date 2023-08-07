@@ -13,9 +13,8 @@
 | [Документация по GitHub](https://docs.github.com/ru)                  | 
 | [Языки и технологии программирования](https://metanit.com)            | 
 | [Основы GNU/Linux и подготовка к RHCSA](https://docs.github.com/ru)   | 
-
+| [Уроки по C# и платформе .NET Framework](https://metanit.com](https://professorweb.ru))            | 
 </div>
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedaYosya&theme=transparent&show_icons=true)
