@@ -13,7 +13,8 @@
 | [Документация по GitHub](https://docs.github.com/ru)                  | 
 | [Языки и технологии программирования](https://metanit.com)            | 
 | [Основы GNU/Linux и подготовка к RHCSA](https://docs.github.com/ru)   | 
-| [Уроки по C# и платформе .NET Framework](https://professorweb.ru)            | 
+| [Уроки по C# и платформе .NET Framework](https://professorweb.ru)     | 
+| [Шпаргалка по Vim](https://vim.rtorr.com)     | 
 </div>
 
 
