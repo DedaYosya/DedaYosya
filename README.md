@@ -1,7 +1,7 @@
 ### Привет 👋
 
 Меня зовут Евгений.
-- 🌱 В настоящее время я учусь в [GeekBrains](https://gb.ru/) по программе [DevOps-инженер с нуля до Middle](https://gb.ru/geek_university/developer/architecture/devops)
+## - 🌱 В настоящее время я учусь в [GeekBrains](https://gb.ru/) по программе [DevOps-инженер с нуля до Middle](https://gb.ru/geek_university/developer/architecture/devops)
 - 📫 Как со мной связаться: [Telegram](https://t.me/DedaEsya)
 
 <h3 align="centr"> Cheat sheets </h3>
