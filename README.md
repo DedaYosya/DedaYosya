@@ -2,7 +2,7 @@
 
 Меня зовут Евгений.
 
-- 📫 Как со мной связаться: [Telegram](https://t.me/DedaEsya)
+- 📫 Как со мной связаться: [Telegram](https://t.me/DedaYosya)
 
 <h3 align="centr"> Cheat sheets </h3>
 
