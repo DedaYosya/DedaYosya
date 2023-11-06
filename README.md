@@ -12,8 +12,7 @@
 | ----------- |
 | [Документация по GitHub](https://docs.github.com/ru)                  | 
 | [Языки и технологии программирования](https://metanit.com)            | 
-| [Шпаргалка по Vim](https://vim.rtorr.com)     |
-| [Шпаргалка по Vim](https://ru.wikibooks.org/wiki/Vim)     |
+| [Шпаргалка по Vim](https://vim.rtorr.com)  (https://ru.wikibooks.org/wiki/Vim)     |
 </div>
 
 
