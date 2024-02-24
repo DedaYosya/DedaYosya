@@ -14,9 +14,11 @@
 | [Языки и технологии программирования](https://metanit.com)            | 
 | [Шпаргалка по Vim](https://vim.rtorr.com)                             |
 | [Шпаргалка по Vim](https://ru.wikibooks.org/wiki/Vim)                 |
-| [Удобный "справочник" по любой команде в Linux.](https://explainshell.com/#)                |
+| [Удобный "справочник" по любой команде в Linux.](https://explainshell.com/#)     |
 | [.gitignore Шаблоны](https://github.com/toptal/gitignore)                |
+| [Файл gitignore - примеры и документация](https://phpstack.ru/php/fajl-gitignore-podrobnaa-spargalka.html)  |
 </div>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedaYosya&theme=transparent&show_icons=true)
