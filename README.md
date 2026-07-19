@@ -17,10 +17,10 @@
 | [Удобный "справочник" по любой команде в Linux.](https://explainshell.com/#)     |
 | [.gitignore Шаблоны](https://github.com/toptal/gitignore)                |
 | [Файл gitignore - примеры и документация](https://phpstack.ru/php/fajl-gitignore-podrobnaa-spargalka.html)  |
-</div>
+
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedaYosya&theme=transparent&show_icons=true)
-<br/><br/>
-<img align="left" src="https://komarev.com/ghpvc/?username=DedaYosya&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="DidaYosya" />
+
+
 
 
 
