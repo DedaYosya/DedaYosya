@@ -21,7 +21,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedaYosya&theme=transparent&show_icons=true)
+| [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedaYosya&theme=transparent&show_icons=true)
 <br/><br/>
 <img align="left" src="https://komarev.com/ghpvc/?username=DedaYosya&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="DidaYosya" />
 
