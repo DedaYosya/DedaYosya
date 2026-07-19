@@ -18,7 +18,6 @@
 | [.gitignore Шаблоны](https://github.com/toptal/gitignore)                |
 | [Файл gitignore - примеры и документация](https://phpstack.ru/php/fajl-gitignore-podrobnaa-spargalka.html)  |
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedaYosya&theme=transparent&show_icons=true)
 
 
 
